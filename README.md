@@ -10,4 +10,4 @@
 - Область видимості
 - Цикли
 
-  [Посилання на репозиторій 🍫](https://github.com/ArtemRysich/University_2/tree/main/Lesson_2)
+[Посилання на репозиторій 🍫](https://github.com/ArtemRysich/University_2)
